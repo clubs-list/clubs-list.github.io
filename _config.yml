@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: "ClubsList | Home Page"
 url: "https://clubs-list.github.io"
 baseurl: ""
