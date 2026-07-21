@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: "ClubsList"
 description: A club-finding resource for the UH Community
-url: "https://clubs-list.github.io"
-baseurl: ""
 github:
   is_project_page: true
   repository_url: https://github.com/bowfolios/bowfolios
