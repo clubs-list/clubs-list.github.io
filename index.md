@@ -14,7 +14,7 @@ ClubsList is an example web application that will aim to provide a centralized d
 * [Prisma](https://www.prisma.io/) ORM for databse access
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-* 
+
 ## User Guide
 
 This section provides a walkthrough of the ClubsList user interface and its capabilities.
