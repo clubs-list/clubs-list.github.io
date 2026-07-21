@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: "ClubsList"
+description: A club-finding resource for the UH Community
 url: "https://clubs-list.github.io"
 baseurl: ""
