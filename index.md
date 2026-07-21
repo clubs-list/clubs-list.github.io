@@ -118,7 +118,7 @@ The settings.development.json file contains a field called "loadAssetsFile". It 
 
 #### ESLint
 
-BowFolios includes a [.eslintrc]() file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+ClubsList includes a [.eslintrc]() file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
 ```
 npm run lint
