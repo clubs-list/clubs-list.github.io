@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: ClubsList Homepage
-description: home page
+url: "https://clubs-list.github.io"
+baseurl: ""
