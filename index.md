@@ -1,4 +1,6 @@
-# ClubsList
+---
+title: "ClubsList"
+---
 
 ## Table of contents
 
